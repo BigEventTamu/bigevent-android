@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="56dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:weightSum="1">
+
+
+        <!-- Email Label -->
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Big Event Job Viewer"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.35" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"></android.support.design.widget.TextInputLayout>
+
+        <!-- Password Label -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="To Do"
+            android:id="@+id/textView2"
+            android:layout_weight="0.35"
+            android:textSize="16dip"
+            android:textColor="#FF0000"/>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:id="@+id/listView" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Completed"
+            android:id="@+id/textView3"
+            android:layout_weight="0.35"
+            android:textSize="16dip"
+            android:textColor="#FF0000"/>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:id="@+id/listView2"
+            android:layout_weight=".35" />
+
+    </LinearLayout>
+</ScrollView>
+<!-- From: file:/H:/bigevent-android/app/src/main/res/layout/activity_taskviewer.xml -->
