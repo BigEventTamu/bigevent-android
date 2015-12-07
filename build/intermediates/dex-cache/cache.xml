@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eidos\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-3ba6ad2037a6449174c02331513220b1c316d1aa.jar" />
+    </item>
+    <item
+        jar="D:\bigevent-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\classes-757a7ad0275c3e745a41daefe76d4ceebaa4134a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eidos\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-3661c65b57218dc8868d7e53609a3c4a396f8b0c.jar" />
+    </item>
+    <item
+        jar="D:\bigevent-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\classes-1714aa23258ee82d4f9ed1a8d8eb77e6f6571fba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eidos\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\gson-2.3.1-029203e09902ba7fe73aec448fb1285e58aff17f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eidos\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2-900ffd02dd4f5f1be799ca3a62debc5354374d39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eidos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b7bc2db02fc6fb7ee7f0392b82d3f094ba2c6be8.jar" />
+    </item>
+    <item
+        jar="D:\bigevent-android\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\classes-64e02dfb323e27538bbfef574019447f3ef2b65f.jar" />
+    </item>
+    <item
+        jar="D:\bigevent-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1f33ba76ee5561565bbbacc6c79345cd9e83d118.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eidos\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-6447491ca96c93cccec767daa3e4626e5d60df51.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eidos\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\bigevent-android\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2-9a7849e3ec173ca6dea6b362124db082537a2913.jar" />
+    </item>
+
+</items>

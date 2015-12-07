@@ -2197,15 +2197,16 @@ containing a value of this type.
         public static final int ic_launcher=0x7f030000;
     }
     public static final class string {
+        public static final int APIBaseUrl=0x7f06000d;
         public static final int abc_action_bar_home_description=0x7f060000;
-        public static final int abc_action_bar_home_description_format=0x7f06000d;
-        public static final int abc_action_bar_home_subtitle_description_format=0x7f06000e;
+        public static final int abc_action_bar_home_description_format=0x7f06000e;
+        public static final int abc_action_bar_home_subtitle_description_format=0x7f06000f;
         public static final int abc_action_bar_up_description=0x7f060001;
         public static final int abc_action_menu_overflow_description=0x7f060002;
         public static final int abc_action_mode_done=0x7f060003;
         public static final int abc_activity_chooser_view_see_all=0x7f060004;
         public static final int abc_activitychooserview_choose_application=0x7f060005;
-        public static final int abc_search_hint=0x7f06000f;
+        public static final int abc_search_hint=0x7f060010;
         public static final int abc_searchview_description_clear=0x7f060006;
         public static final int abc_searchview_description_query=0x7f060007;
         public static final int abc_searchview_description_search=0x7f060008;
@@ -2213,20 +2214,14 @@ containing a value of this type.
         public static final int abc_searchview_description_voice=0x7f06000a;
         public static final int abc_shareactionprovider_share_with=0x7f06000b;
         public static final int abc_shareactionprovider_share_with_application=0x7f06000c;
-        public static final int abc_toolbar_collapse_description=0x7f060010;
-        public static final int action_settings=0x7f060011;
-        public static final int app_name=0x7f060012;
-        public static final int appbar_scrolling_view_behavior=0x7f060013;
-        public static final int authenticatingInstitutionId=0x7f060014;
-        public static final int authenticatingServerBaseUrl=0x7f060015;
-        public static final int contextInstitutionId=0x7f060016;
-        public static final int hello_world=0x7f060017;
-        public static final int redirectUrl=0x7f060018;
-        public static final int responseType=0x7f060019;
-        public static final int scopes=0x7f06001a;
-        public static final int status_bar_notification_info_overflow=0x7f06001b;
-        public static final int title_activity_login=0x7f06001c;
-        public static final int wskey=0x7f06001d;
+        public static final int abc_toolbar_collapse_description=0x7f060011;
+        public static final int action_settings=0x7f060012;
+        public static final int app_name=0x7f060013;
+        public static final int appbar_scrolling_view_behavior=0x7f060014;
+        public static final int hello_world=0x7f060015;
+        public static final int responseType=0x7f060016;
+        public static final int status_bar_notification_info_overflow=0x7f060017;
+        public static final int title_activity_login=0x7f060018;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080074;
